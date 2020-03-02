@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735327996598",
+    "firebase_url": "https://fir-7bb3c.firebaseio.com",
+    "project_id": "fir-7bb3c",
+    "storage_bucket": "fir-7bb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735327996598:android:69d036b961eb71b1cf7417",
+        "android_client_info": {
+          "package_name": "com.treinamento.valdecir.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735327996598-0ndf6sppc0d66ri4fjmk5ik18o2ijd29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treinamento.valdecir.firebase_app",
+            "certificate_hash": "91d76bc5fd642684dcf1375b3f8873fd12bdf859"
+          }
+        },
+        {
+          "client_id": "735327996598-7rklqakjqgi9uistr96vo7nnf6iguns2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5V_UxMZekCztEDQIK7V8lq9cSr1AhzfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735327996598-7rklqakjqgi9uistr96vo7nnf6iguns2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
